@@ -1,5 +1,4 @@
 //sum of digits of a number using only devid statements 
-
 #include<iostream>
 using namespace std;
 int main(){
@@ -24,13 +23,6 @@ n1=n1/10;
 int sum;
 sum=digit1+digit2+digit3+digit4+digit5+digit6;
 cout<<"The sum of digits of a number is = "<<sum;
-
-
-
-
-
-
-
 
     return 0;
 }
