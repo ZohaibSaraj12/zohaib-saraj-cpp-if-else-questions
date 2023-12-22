@@ -11,13 +11,13 @@ int main(){
 	cout<<"Enter coordinates for P1 = "<<endl;
 	cin>>x1>>y1;
 	cout<<"P1("<<x1<<"," <<y1<<")" <<endl;
-	cout<<"Enter coordinates of P2 = "<<endl;
+       cout<<"Enter coordinates of P2 = "<<endl;
 	cin>>x2>>y2;
 	cout<<"P2(" <<x2<<","<<y2<< ")"<<endl;
-		cout<<"Enter coordinates of P2 = "<<endl;
+		cout<<"Enter coordinates of P3 = "<<endl;
 	cin>>x3>>y3;
 	cout<<"P3(" <<x3<<","<<y3<< ")"<<endl;
-		cout<<"Enter coordinates of P2 = "<<endl;
+		cout<<"Enter coordinates of P4 = "<<endl;
 	cin>>x4>>y4;
 	cout<<"P4(" <<x4<<","<<y4<< ")"<<endl;
 
