@@ -34,11 +34,10 @@ else
 		
 		
 		
+		if(digit6>0)
 		
-		
-	    if (digit6==0)
-	    cout<<" Zero";
-		else if(digit6==1)
+	    
+		if(digit6==1)
 		cout<<"One ";
 		else if (digit6==2)
 		cout<<" Two";
@@ -59,9 +58,8 @@ else
 	
 	if (digit5>0)
 	
-		 if (digit5==0)
-	    cout<<" Zero";
-		else if(digit5==1)
+		 
+		 if(digit5==1)
 		cout<<" One ";
 		else if (digit5==2)
 		cout<<" Two";
@@ -83,9 +81,7 @@ else
 	
 	if (digit4>0)
 	
-		 if (digit4==0)
-	    cout<<" Zero";
-		else if(digit4==1)
+		 if(digit4==1)
 		cout<<" One ";
 		else if (digit4==2)
 		cout<<" Two";
@@ -131,9 +127,7 @@ else
 
 	if (digit2>0)
 	
-		 if (digit2==0)
-	    cout<<" Zero";
-		else if(digit2==1)
+		 if(digit2==1)
 		cout<<" One ";
 		else if (digit2==2)
 		cout<<" Two";
@@ -155,9 +149,7 @@ else
 	
 	if (digit1>0)
 	
-		 if (digit1==0)
-	    cout<<" Zero";
-		else if(digit1==1)
+		if(digit1==1)
 		cout<<" One ";
 		else if (digit1==2)
 		cout<<" Two";
