@@ -1,3 +1,5 @@
+                                      // Written by ZOHAIB SARAJ
+
 //sum of digits of a number using only division and remainder concepts  
 #include<iostream>
 using namespace std;
