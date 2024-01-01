@@ -1,3 +1,4 @@
+                                // Written by ZOHAIB SARAJ
 #include<iostream>
 using namespace std;
 int main(){
@@ -11,7 +12,7 @@ int main(){
     what does 
      */
 	
-cout<<" a b c d e f g h\n";
+
 cout<<"8 p p p p p p p p\n";
 cout<<"7 r n b q k b n r\n";
 cout<<"6 . . . . . . . .\n";
@@ -20,6 +21,6 @@ cout<<"4 . . . . . . . .\n";
 cout<<"3 . . . . . . . .\n";
 cout<<"2 P P P P P P P P\n";
 cout<<"1 R N B Q K B N R\n";
-	
+cout<<"  A B C D E F G H\n";	
 	return 0;
 }
