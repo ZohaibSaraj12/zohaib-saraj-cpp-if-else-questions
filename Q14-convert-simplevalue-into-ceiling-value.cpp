@@ -1,4 +1,6 @@
- /*In other words, the ceiling function rounds up a real number to the nearest integer that is not less 
+                              // Written by ZOHAIB SARAJ
+
+/*In other words, the ceiling function rounds up a real number to the nearest integer that is not less 
  than the original number.
 ⌈x⌉=the smallest integer n such that n≥x */
 #include<iostream>
