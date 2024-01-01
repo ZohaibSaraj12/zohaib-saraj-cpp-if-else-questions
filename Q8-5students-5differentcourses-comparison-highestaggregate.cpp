@@ -1,4 +1,4 @@
-                                              //Written by ZOHAIB SARAJ
+                                  //Written by ZOHAIB SARAJ
 
 
 //program of 5 different students marks on the basis of different 5 
