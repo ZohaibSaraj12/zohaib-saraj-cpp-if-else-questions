@@ -20,19 +20,19 @@ int main(){
 		cout<<"Enter coordinates of P4 = "<<endl;
 	cin>>x4>>y4;
 	cout<<"P4(" <<x4<<","<<y4<< ")"<<endl;
-
+//we know square have four sides equal
    int AB = sqrt(pow(x2 - x1, 2) + pow(y2 - y1, 2));
     int BC =sqrt (pow(x3 - x2, 2) + pow(y3 - y2, 2));
     int AD = sqrt (pow(x4 - x1, 2) + pow(y4 - y1, 2));
     int DC= sqrt (pow(x3 - x4, 2) + pow(y3 - y4, 2));
  if (AB==BC && BC == AD && AD==DC)
  cout<<"Square ";
- else if (AB == AD)
+//we know only two sides are equal of rectangle
+ else if (AB == AD || BC== DC)
  cout<<" Rectangle "<<endl;
+ // otherwise it will be calculator 
  else 
  cout<<"Quadilateral "<<endl;
-   
-   
    
 		    return 0;
 		    
