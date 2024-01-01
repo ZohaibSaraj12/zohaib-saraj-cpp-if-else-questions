@@ -7,7 +7,8 @@ cout<<"Enter any number = ";
 cin>>n1;
 //for 1st digit remainder 
 int digit1=n1%10;
-//for 1st digit quotient 
+//we get last digit
+//reamining number without last digit by quotient 
 n1=n1/10;
 int digit2=n1%10;
 n1=n1/10;
