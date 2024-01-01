@@ -1,3 +1,5 @@
+                                  //Written by ZOHAIB SARAJ
+
 // making a simple calculator using simple operation as a character in c++
 #include<iostream>
 using namespace std;
