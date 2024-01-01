@@ -1,3 +1,4 @@
+                                // Written by ZOHAIB SARAJ
 //check no is multiple of other number 
 #include<iostream>
 using namespace std;
