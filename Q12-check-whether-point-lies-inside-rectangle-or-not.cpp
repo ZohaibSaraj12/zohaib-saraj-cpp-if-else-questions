@@ -1,6 +1,7 @@
+                  //Written by ZOHAIB SARAJ
+
 // check whether point lies inside the rectangle or not 
 #include <iostream>
-
 using namespace std;
 
 int main() {
@@ -24,11 +25,15 @@ cout<<"Enter coordinates of point to check wether it lies or not = "<<endl;
 int x5,y5;
 cin>>x5>>y5;
 cout<<"P(" <<x5<<"," <<y5<<")"<<endl;
-    // Check if point P lies inside the rectangle
-  if (x5>=x1 && x5<=x3 && y5>=y1 && y5<=y3  )
+    // Chech point P lies in rectangle or not 
+   // how we can know that P lies in rectangle 
+  /*if a point that's coordinates are x and y we know that its x and y coordinate will greater from 
+  origin or x1 and y1 respectively and less from x3 and y3 it will lie in rectangle
+*/
+  if (x5>=x1 && x5<=x3 && y5>=y1 && y5<=y3  || x5>=x2 && x5<=x4 && y5>=y2 && y5<=y4)
     cout<<"The point lies inside the rectangle. "<<endl;
     else 
-    cout<<"Point doesnot lies in a rectangle "<<endl;
+    cout<<"Point does not lies in a rectangle "<<endl;
     
     
     return 0;
