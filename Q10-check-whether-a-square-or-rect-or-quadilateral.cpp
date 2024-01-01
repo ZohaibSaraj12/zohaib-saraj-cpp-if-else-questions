@@ -1,3 +1,5 @@
+                                     // Written by ZOHAIB SARAJ
+
 //program to check whether a square, rectangle or a quadilateral by its points containing coordinates 
 #include<iostream>
 #include<cmath>
