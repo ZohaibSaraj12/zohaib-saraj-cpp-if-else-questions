@@ -1,3 +1,5 @@
+                                     //Written by ZOHAIB SARAJ
+
 /*what is floor value means the floor value of a number is defined as the smallest or equal value of that integer.
 In other words, the floor function rounds down a real number to the nearest integer that is not greater than the 
  original number. 
