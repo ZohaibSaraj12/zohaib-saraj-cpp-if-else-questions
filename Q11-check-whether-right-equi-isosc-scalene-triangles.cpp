@@ -1,3 +1,5 @@
+                                         //Written by ZOHAIB SARAJ 
+ 
 #include<iostream>
 // including complexmath library because we would do 
 // power and square root which are rather complex identities 
