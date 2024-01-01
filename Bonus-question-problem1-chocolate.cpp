@@ -1,3 +1,5 @@
+              // Written by ZOHAIB SARAJ
+
 /*               ********BONUS(CHOCOLATE)*********
 Problem # 1: Write a program that takes marks of 5 different students(1,2,3,4,5)
  in 5 different courses as input and output the highest marks in each course along 
