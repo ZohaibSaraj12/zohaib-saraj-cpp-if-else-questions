@@ -1,3 +1,5 @@
+                                  // Written by ZOHAIB SARAJ
+
 /*               ********BONUS(CHOCOLATE)*********
 Problem # 2: A program that takes marks of n different students(1,2,3,4,5) 
 in k different courses as input and prints the highest 
